@@ -3,8 +3,8 @@
 
     xmlns="http://www.w3.org/2000/svg">
 
-    <circle cx="150" cy="110" r="80" fill="pink" />
+    <circle cx="150" cy="110" r="80" fill="Yellow" />
 
-    <text x="150" y="125" font-size="40" text-anchor="middle" fill="purple">FAW</text>
+    <text x="150" y="125" font-size="40" text-anchor="middle" fill="blue">SAM</text>
 
     </svg>

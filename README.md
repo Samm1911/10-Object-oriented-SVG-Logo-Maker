@@ -19,7 +19,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1vXTEUu-hnEo04FUVWJdXnLUlRKdFWAab/view?usp=drive_link)
 
 Copy this project into your repository, initialize npm ('npm init -y') and install inquirer@8.2.4 for the prompts and jest to run the tests. -->('npm i inquirer@8.2.4' & 'npm i jest')
 
